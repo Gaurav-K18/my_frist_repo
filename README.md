@@ -4,5 +4,6 @@ git
 changing the code second branch git diff
 
 
+git checkout main 
 
 
